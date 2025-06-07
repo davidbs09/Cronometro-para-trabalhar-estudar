@@ -16,10 +16,10 @@ body {
 .timer {
     font-size: 7vw;
     font-family: 'Digital-7', 'Consolas', monospace;
-    color: #ffa500;
+    color: #00eaff; /* azul claro */
     letter-spacing: 0.1em;
     margin-bottom: 2rem;
-    text-shadow: 0 0 20px #ffa50099;
+    text-shadow: 0 0 20px #00eaff99;
 }
 
 .dot {
@@ -44,12 +44,12 @@ body {
 }
 
 .reset {
-    background: #ffa500;
+    background: #e53935; /* vermelho */
     color: #fff;
 }
 
 .reset:hover {
-    background: #ffb733;
+    background: #ff6659;
 }
 
 .start {

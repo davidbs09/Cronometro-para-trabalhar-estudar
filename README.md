@@ -18,4 +18,4 @@ Um cronômetro digital simples, bonito e responsivo, inspirado em displays digit
 
 ---
 
-Projeto criado para uso pessoal e aprendizado. Sinta-se à vontade para modificar e adaptar!
+Projeto criado para uso pessoal. Sinta-se à vontade para modificar e adaptar!
